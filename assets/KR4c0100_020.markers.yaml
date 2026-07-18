@@ -975,6 +975,7 @@ markers:
   - {type: substitution, offset: 2473, original: 鸎, replacement: 鶯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17098}}
   - {type: substitution, offset: 2474, original: 遥, replacement: 遙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20748}}
   - {type: punctuation, offset: 2479, content: (, id: KR4c0100_krp_020-bkkpn1}
+  - {type: voice, offset: 2479, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 2483, content: /, id: KR4c0100_krp_020-bkkpn2}
   - {type: substitution, offset: 2483, original: 随, replacement: 隨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17392}}
   - {type: punctuation, offset: 2487, content: ), id: KR4c0100_krp_020-bkkpn3}
@@ -1108,6 +1109,7 @@ markers:
   - {type: line-break, offset: 2762, content: '', id: KR4c0100_SBCK_020-9b02}
   - {type: indent, offset: 2762, content: 　　, id: KR4c0100_krp_020-bkkind58}
   - {type: punctuation, offset: 2764, content: (, id: KR4c0100_krp_020-bkkpn4}
+  - {type: voice, offset: 2764, length: 39, name: note, id: n2}
   - {type: substitution, offset: 2778, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20172}}
   - {type: punctuation, offset: 2780, content: /, id: KR4c0100_krp_020-bkkpn5}
   - {type: variant, offset: 2784, length: 1, content: 所, SBCK: 􅀁}
@@ -1516,4 +1518,4 @@ markers:
 
       ', id: KR4c0100_krp_020-bkkkrnewl262}
   back: []
-hash: sha256:6603efc6d697ab184258b3adedd748725ccef7e823399c7b52ac69e726bd581e
+hash: sha256:3b01544f69af43539043fb7684835da442d6a8ae918d6daac91679cfb862070e
